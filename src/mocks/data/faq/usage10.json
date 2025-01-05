@@ -1,0 +1,81 @@
+{
+  "pageInfo": {
+    "totalRecord": 105,
+    "offset": 90,
+    "limit": 10,
+    "prevOffset": 80,
+    "nextOffset": 100
+  },
+  "items": [
+    {
+      "id": 91,
+      "categoryName": "충전",
+      "subCategoryName": "충전",
+      "question": "전기차 충전 비용은 어떻게 결제되나요?",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: \u0026#39;13pt\u0026#39;; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e차량 충전은 차량 안에 비치된 위블 비즈 전용 충전 카드로 결제 부탁드립니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: \u0026#39;13pt\u0026#39;; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e해당 카드로 결제 시 해당 충전비용은 위블 비즈가 부담하며, 개인 카드로 충전 시에는 별도의 충전 비용이 환급되지 않습니다. \u003cbr\u003e단, 차량 내 충전카드가 없거나 카드 인식 불가로 인해 불가피하게 개인비용으로 결제해야 하는 경우에 한하여, 결제 비용에 대한 환불이 가능합니다.\u003cbr\u003e(충전기 화면, 카드 결제내역, 충전 전/후 계기판 사진 등 증빙 사진 제출 필수)\u003cbr\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: \u0026#39;13pt\u0026#39;; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e*차량 이용 후 반납 시 이용하신 주행거리만큼 주행요금은 별도 청구됩니다.\u003cbr\u003e(비즈니스용 상품의 경우, 계약 방식에 따라 주행요금 정산 방식이 상이할 수 있습니다.)\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: \u0026#39;13pt\u0026#39;; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e*청구된 비용은 위블 비즈 앱 - 왼쪽 상단 메뉴 - [예약 및 이용내역] - 해당 건 선택 - 운행 후 요금 결제내역 에서 언제든지 확인이 가능합니다.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 92,
+      "categoryName": "충전",
+      "subCategoryName": "충전",
+      "question": "차량 안에 충전 카드가 없어요.",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: \u0026#39;13pt\u0026#39;; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e차량별 충전카드 위치는 \u0026#39;차량별 이용 방법\u0026#39;을 참고해주시고, 차량 내에 전용 충전카드가 없을 경우 고객센터로 연락주시기 바랍니다.  \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: \u0026#39;13pt\u0026#39;; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e▶ 차량별 충전 전용카드 및 충전구 위치 확인 : 차량별 이용 방법  \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: \u0026#39;13pt\u0026#39;; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e*전용 충전 카드가 없어 부득이하게 충전이 어려운 경우에는 개인카드로 우선 결제 후 환불처리가 가능합니다.\u003cbr\u003e (단, 충전기 화면, 카드 결제내역, 충전 전/후 계기판 사진 등 증빙 사진 제출 필수)\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 93,
+      "categoryName": "충전",
+      "subCategoryName": "충전",
+      "question": "차량에 비치된 충전 카드가 충전기에서 인식되지 않아요.",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e위블 비즈 충전카드로 태깅이 되지 않을 경우, 카드 회원번호를 직접 입력해주세요.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e회원번호로도 충전이 진행되지 않는다면 고객센터로 연락주시기 바랍니다.  \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e또한, 카드 인식 오류 관련하여 고객센터로 연락을 주시면 빠른 시일 내에 해당 카드를 교체해드리겠습니다.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 94,
+      "categoryName": "충전",
+      "subCategoryName": "충전",
+      "question": "차량에 비치된 충전 카드로 결제가 되지 않아요.",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: \u0026#39;13pt\u0026#39;; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e충전은 위블 비즈 전용 충전카드로 결제하는 것을 기본 원칙으로 하고 있으나, 충전카드 결제 오류로 충전이 불가능한 경우에 한하여 개인카드로 결제하실 수 있도록 안내드리고 있습니다. \u003cbr\u003e(단, 충전기 화면, 카드 결제내역, 충전 전/후 계기판 사진 등 증빙 사진 제출 필수)\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: \u0026#39;13pt\u0026#39;; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e충전카드 결제 오류 시, 고객센터로 미리 연락 주시면 도움을 드리겠습니다.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 95,
+      "categoryName": "충전",
+      "subCategoryName": "충전",
+      "question": "전기차 충전 소요 시간이 궁금해요.",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e전기차 충전기는 완속과 급속 두 가지 종류가 있으며, 종류에 따라 충전 소요 시간이 다릅니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e- 완속 충전: 약 9시간 (니로EV 기준, 0%에서 80%까지 충전 시)\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e - 급속 충전: 약 40분 (니로EV 기준, 0%에서 80%까지 충전 시)\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e  *기온 및 차량 배터리 용량에 따라 충전 소요 시간이 상이할 수 있습니다.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 96,
+      "categoryName": "충전",
+      "subCategoryName": "충전",
+      "question": "충전소 위치는 어디에서 확인할 수 있나요?",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e위블 비즈 앱의 메인 화면 지도에서 [전기차 충전소 위치] 버튼을 통해 전기차 충전소를 검색할 수 있습니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e  ① 위블 비즈 앱 메인 화면 지도의 왼쪽 상단 [전기차 충전소 위치] 버튼\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e  ② 지도 화면을 드래그하여 이용 가능한 가까운 충전소 조회\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e  ③ 충전소 상세 정보 및 길찾기 확인 가능\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e   * 충전소 정보는 각 운영기관에서 입력한 정보를 활용하여 제공하고 있습니다. 정확한 정보는 각 충전소 운영 기관으로 문의해주시기 바랍니다.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 97,
+      "categoryName": "충전",
+      "subCategoryName": "충전",
+      "question": "전기차 반납 시 유의해야 하는 내용이 있나요?",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e전기차 반납 시에는 아래 내용을 반드시 확인해주세요.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e  ① 반납 위치 : 대여했던 위블존(주차구역)에 반납\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e  ② 차량 라이트/시동 상태 : 라이트/시동 OFF 상태인지 확인 *가(반)시동 상태에서는 반납불가\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e  ③ 차량 문/창문 상태 : 차량 문이 정상적으로 닫혀 있고 잠금된 상태인지 확인 *뒷문+트렁크 열린 상태에서는 반납 불가\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e차량별 정책이 상이하므로 대여 전 안내 받은 차량 충전 조건 정보를 확인해주세요.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e반납 전 두고 가는 개인 용품이 없는지 체크해주시고 및 쓰레기를 반드시 수거한 뒤, 스마트키를 통해 문 잠금 후 반납을 진행해주세요.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e위 조건을 모두 충족했음에도 불구하고 차량 반납이 불가능할 경우 고객센터로 연락 주시면 도움을 드리겠습니다.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 98,
+      "categoryName": "충전",
+      "subCategoryName": "충전",
+      "question": "제 카드로 충전 요금을 결제했어요.",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: \u0026#39;13pt\u0026#39;; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e충전은 반드시 차량 안에 비치된 전용 충전카드로 결제하셔야 하며, 개인비용으로 결제한 비용은 환불이 불가합니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: \u0026#39;13pt\u0026#39;; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e단, 차량 내 충전카드가 없거나 카드 인식 불가로 인해 불가피하게 개인비용으로 결제해야 하는 경우에 한하여, 결제 비용에 대한 환불이 가능합니다.\u003cbr\u003e(충전기 화면, 카드 결제내역, 충전 전/후 계기판 사진 등 증빙 사진 제출 필수)\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: \u0026#39;13pt\u0026#39;; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e관련하여 고객센터로 연락 주시면 도움을 드리겠습니다.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 122,
+      "categoryName": "쿠폰/기타",
+      "subCategoryName": "쿠폰",
+      "question": "쿠폰으로 할인받을 수 있는 항목은 어떤 것이 있나요?",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e쿠폰 조건에 따라 적용 가능한 할인 상품, 할인 금액이 상이합니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e쿠폰 사용 전에 꼭 해당 쿠폰의 세부 조건을 확인하시기 바랍니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e▶ 쿠폰 확인 방법: 위블 비즈 앱 - 왼쪽 상단 메뉴 - [쿠폰] - [내쿠폰] - 해당 쿠폰의 사용 가능 조건 확인\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e*모든 쿠폰은 결제 시, 대여요금에 한해 적용되며 1개만 사용 가능합니다.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 123,
+      "categoryName": "쿠폰/기타",
+      "subCategoryName": "쿠폰",
+      "question": "쿠폰은 어떻게 등록할 수 있나요?",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e아래 절차에 따라 쿠폰을 등록할 수 있습니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e  ① 쿠폰북 다운로드 : 위블 비즈 앱 - 왼쪽 상단 메뉴 - [쿠폰] - [쿠폰북] - 원하는 쿠폰 우측 \u0026#39;다운로드\u0026#39; 버튼 클릭\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e  ② 개인 쿠폰 등록 : 위블 비즈 앱 - 왼쪽 상단 메뉴 - [쿠폰] - [내쿠폰] - [쿠폰 코드 입력] - [등록]\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e  *쿠폰 등록이 원활하지 않은 경우, 고객센터에 문의해주시기 바랍니다.\u003c/span\u003e\u003c/p\u003e"
+    }
+  ]
+}

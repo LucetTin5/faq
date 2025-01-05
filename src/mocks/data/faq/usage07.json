@@ -1,0 +1,81 @@
+{
+  "pageInfo": {
+    "totalRecord": 105,
+    "offset": 60,
+    "limit": 10,
+    "prevOffset": 50,
+    "nextOffset": 70
+  },
+  "items": [
+    {
+      "id": 109,
+      "categoryName": "비즈니스(업무용)",
+      "subCategoryName": "프로필",
+      "question": "위블 비즈를 이용하는 회사의 임직원입니다. 비즈니스 프로필은 어떻게 생성하나요?",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e위블 비즈 앱에서 비즈니스 프로필을 생성할 수 있습니다.  \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e▶ 비즈니스 프로필 생성 : 위블 비즈 앱 - 왼쪽 상단 메뉴 - 사용자 정보 상단 [비즈니스 전환] 터치      \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e* 비즈니스 프로필 생성 시, 회사 이메일 인증이 되지 않을 경우 고객센터로 문의해주시면 안내해드리겠습니다. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e* 재직 중인 회사의 위블 비즈 차량 이용과 관련한 자세한 내용은 사내 위블 비즈 담당자에게 문의하시기 바랍니다.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 110,
+      "categoryName": "비즈니스(업무용)",
+      "subCategoryName": "프로필",
+      "question": "회사 메일을 입력했는데도 인증이 되지 않아요.",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e회사 이메일 인증이 되지 않을 경우 아래 내용을 확인해주세요.   \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e① 스팸메일함에 인증 메일이 와 있는지 확인해주세요.  \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e② 또는 사내 위블 비즈 담당자에게 고객님의 이메일 등록 여부를 확인해주세요. (사내 위블 비즈 담당자의 관리자 시스템에 등록된 임직원 이메일에 한해 정상적으로 인증됩니다.)  \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e위 방법으로도 회사 이메일 인증이 되지 않을 경우 고객센터로 문의해주시면 안내해드리겠습니다.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 112,
+      "categoryName": "비즈니스(업무용)",
+      "subCategoryName": "프로필",
+      "question": "비즈니스 프로필을 삭제하고 싶어요.",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e비즈니스 차량을 이용할 필요가 없어진 경우 비즈니스 프로필을 삭제할 수 있습니다.  \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e▶ 비즈니스 프로필 삭제 : 위블 비즈 앱 - 왼쪽 상단 메뉴 - [마이페이지] - [비즈니스 프로필 관리] - 하단 [비즈니스 프로필 삭제] 버튼  \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e*비즈니스 프로필 삭제 시, 더이상 비즈니스 차량을 이용할 수 없으므로 신중하게 확인해주시기 바랍니다. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e*비즈니스 프로필을 삭제하더라도 개인용 차량은 계속 이용 가능하며, 위블 비즈의 서비스에서는 회원 탈퇴가 되지 않습니다.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 113,
+      "categoryName": "비즈니스(업무용)",
+      "subCategoryName": "프로필",
+      "question": "비즈니스 프로필을 삭제하면 위블 비즈 탈퇴가 되는 건가요?",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e비즈니스 프로필을 삭제하더라도 개인 프로필은 계속 이용 가능하며, 위블 비즈의 서비스에서는 회원 탈퇴가 되지 않습니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e위블 비즈 서비스에서 회원 탈퇴를 원하는 경우 회원 탈퇴를 진행해주세요.   \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e▶ 회원 탈퇴 : 위블 비즈 앱 - 왼쪽 상단 메뉴 - [마이페이지] - 하단 \u0026#39;탈퇴하려면 여기를 눌러주세요\u0026#39; 버튼\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 114,
+      "categoryName": "비즈니스(업무용)",
+      "subCategoryName": "프로필",
+      "question": "퇴사 예정입니다. 비즈니스 프로필은 어떻게 해야 하나요?",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e퇴사 예정이라 더 이상 회사의 위블 비즈 비즈니스 차량을 이용할 필요가 없어진 경우 비즈니스 프로필을 삭제해야 합니다. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e ▶ 비즈니스 프로필 삭제 : 위블 비즈 앱 - 왼쪽 상단 메뉴 - [마이페이지] - [비즈니스 프로필 관리] - 하단 [비즈니스 프로필 삭제] 버튼\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e  *비즈니스 프로필 삭제 시, 더이상 비즈니스 차량을 이용할 수 없으므로 신중하게 확인해주시기 바랍니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e  *비즈니스 프로필을 삭제하더라도 개인 프로필은 계속 이용 가능하며, 위블 비즈의 서비스에서는 회원 탈퇴가 되지 않습니다.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 116,
+      "categoryName": "비즈니스(업무용)",
+      "subCategoryName": "프로필",
+      "question": "개인 프로필에서 비즈니스 프로필로 전환하려면 어떻게 해야 하나요?",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e위블 비즈 앱에서 아래의 방법으로 개인\u0026lt;-\u0026gt;비즈니스 프로필을 전환할 수 있습니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e ▶ 개인\u0026lt;-\u0026gt;비즈니스 프로필 상태 전환 : 위블 비즈 앱 - 왼쪽 상단 메뉴 - 상단 이용자 정보 위 개인 \u0026lt;-\u0026gt; 비즈니스 프로필 전환 버튼\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 115,
+      "categoryName": "비즈니스(업무용)",
+      "subCategoryName": "예약",
+      "question": "비즈니스용 상품 예약은 어떻게 하나요?",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e비즈니스용 상품 예약을 위해서는 먼저 비즈니스 프로필이 생성되어 있어야 합니다. 비즈니스 프로필 생성 방법은 아래 안내를 참고해주세요.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e ▶ 비즈니스 프로필 생성 : 위블 비즈 앱 - 왼쪽 상단 메뉴 - 사용자 정보 상단 [비즈니스 전환] 터치\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e 비즈니스 프로필 생성 후, 비즈니스 프로필 상태로 설정되어 있는지 확인합니다. (위블 비즈 앱 - 왼쪽 상단 메뉴 - 상단 사용자 정보에 회사명 및 팀명이 보이면 비즈니스 프로필 상태)\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e 메인 지도 화면에서 위블존 선택 후 대여 기간 및 차량 선택, 기타 대여 정보 확인 후 차량 예약을 하시면 됩니다.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 117,
+      "categoryName": "비즈니스(업무용)",
+      "subCategoryName": "예약",
+      "question": "비즈니스용 상품 예약 시 사용할 수 있는 위블존이 한정되어 있나요?",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e비즈니스 상품의 경우 소속 회사와 계약한 위블존에 한해 차량을 이용할 수 있습니다.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 118,
+      "categoryName": "비즈니스(업무용)",
+      "subCategoryName": "동승운전자",
+      "question": "(비즈니스 프로필) 동승운전자를 등록 또는 변경하고 싶어요.",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e동승운전자의 경우, 차량 예약 단계에서 입력이 가능합니다. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e비즈니스 프로필 차량 이용 시 동승운전자는 최대 4인까지 입력 가능하며, 같은 회사 소속의 임직원만 등록이 가능합니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e또한, 동승운전자는 개인 결제정보와 운전면허 정보를 등록한 위블 비즈 정회원이어야 합니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e▶ 입력 방법 : 동승운전자 칸에 \u0026#39;이름 또는 아이디\u0026#39; 검색 후 선택  예약 시작 10분 전까지 동승운전자의 정보를 등록,변경 혹은 삭제할 수 있습니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e▶ 수정/삭제 방법: 위블 비즈 앱 - 왼쪽 상단 메뉴 - [예약 및 이용내역] - 해당 건 선택 - [업무 정보] - [수정]  \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e* 동승운전자로 등록되어있어도 예약 당사자 없이 단독 운행 시 차량손해면책제도 적용이 불가합니다. 반드시 예약자가 탑승한 상태에서 운행하시기 바랍니다.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 119,
+      "categoryName": "비즈니스(업무용)",
+      "subCategoryName": "결제",
+      "question": "비즈니스용 차량 예약 시 어떻게 결제되나요?",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e대여 요금이 바로 결제되는(과금형) 비즈니스 상품의 경우, 고객님의 소속 회사 사내 위블 비즈 관리자가 사전에 등록한 업무용 결제 수단으로 대여 요금 및 운행 후 요금이 결제됩니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e ▶ 비즈니스 프로필 결제정보 확인 : 위블 비즈 앱 - 왼쪽 상단 메뉴 - [마이페이지] - [결제/운전면허 관리] - 비즈니스 프로필 결제정보 확인\u003c/span\u003e\u003c/p\u003e"
+    }
+  ]
+}

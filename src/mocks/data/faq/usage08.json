@@ -1,0 +1,81 @@
+{
+  "pageInfo": {
+    "totalRecord": 105,
+    "offset": 70,
+    "limit": 10,
+    "prevOffset": 60,
+    "nextOffset": 80
+  },
+  "items": [
+    {
+      "id": 120,
+      "categoryName": "비즈니스(업무용)",
+      "subCategoryName": "결제",
+      "question": "회사 증빙을 위해 비즈니스 상품의 이용 및 결제내역을 확인하고 싶어요",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e위블 비즈 앱의 비즈니스 프로필 상태에서 비즈니스 상품의 이용 및 결제내역을 확인할 수 있습니다. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e ▶ 이용 및 결제내역 확인 : 위블 비즈 앱 - 왼쪽 상단 메뉴 - [예약 및 이용내역] - 해당 건 선택\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 121,
+      "categoryName": "비즈니스(업무용)",
+      "subCategoryName": "관리자",
+      "question": "회사의 위블 비즈 관리자입니다. 관리 기능은 어디에서 사용할 수 있나요?",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e위블 비즈 이용 계약이 된 회사의 사내 위블 비즈 관리자의 경우 위블 비즈 클라이언트 관리자 시스템을 통해 관리 기능을 사용하실 수 있습니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e임직원이 원활하게 위블 비즈를 이용할 수 있도록, 회사의 위블 비즈 이용 현황과 임직원 등록 현황을 상시로 관리해주세요.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e이외에 자세한 이용 방법이 궁금하신 경우 위블 비즈 고객센터에 문의해주시면 안내해드리겠습니다.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 99,
+      "categoryName": "사고/보험",
+      "subCategoryName": "사고",
+      "question": "이용 중 사고가 발생했어요.",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e차량 이용 중 고장이나 사고 발생 시 즉시 고객센터로 연락해 신고해야 하며 회사의 안내를 준수해야 합니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e사고 후 신고하지 않은 경우에는 보험 혜택을 적용 받을 수 없으며 미신고 페널티 요금(10만원)+페널티 점수(10점)가 부과되고 영업 손실 및 사고처리 비용 보상이 청구(차량손해면책제도 적용 불가)됩니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e사고 신고 후, 사고 현장을 미리 촬영해주시고 상대방과 목격자의 인적사항, 차량번호, 보험사를 확인해주세요.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e자세한 사고 신고 방법은 메뉴 \u0026gt; 하단의 \u0026#39;이용가이드\u0026#39; \u0026gt; 사고/보험 안내 (사고 촬영 가이드) 탭을 참고하시기 바랍니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e*사고 미신고 시 자기차량 손해 면책제도에서 제외되며, 법적 고발 및 이용 불가 조치가 행해질 수 있습니다.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 100,
+      "categoryName": "사고/보험",
+      "subCategoryName": "사고",
+      "question": "사고 처리 과정이 궁금해요.",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e사고 처리 과정은 아래와 같으며 사고 접수 후, 위블 비즈 앱 또는 담당자의 별도 안내를 통해 사고 처리 현황을 확인할 수 있습니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e ▶ 사고 처리 과정:\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e  ① 사고 접수 \u0026gt; 공업사 입고 \u0026gt; 차량 점검 및 수리 진행\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e  ② 수리 완료 차량은 운행 상태로 변경\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e  ③ 공업사로부터 청구된 수리 명세서 검토 및 보험사 과실여부 확인\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e  ④ 과실 여부 및 비율에 따라 개인 또는 회사에 고객 부담금을 청구하며, 납부가 완료되면 사고 처리가 완료됩니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e ▶ 사고 처리 현황 확인 : 위블 비즈 앱 - 왼쪽 상단 메뉴 - [고객센터] - [사고 신고/처리 현황]\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 101,
+      "categoryName": "사고/보험",
+      "subCategoryName": "사고",
+      "question": "사고 처리 현황은 어디에서 확인할 수 있나요?",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e사고 접수 후, 위블 비즈 앱 또는 담당자의 별도 안내를 통해 사고 처리 현황을 확인할 수 있습니다. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e▶ 사고 처리 현황 확인 : 위블 비즈 앱 - 왼쪽 상단 메뉴 - [고객센터] - [사고 신고/처리 현황]\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 102,
+      "categoryName": "사고/보험",
+      "subCategoryName": "사고",
+      "question": "사고 시 비용이 어느 정도 발생하나요?",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e위블 비즈는 이용 중 발생할 수 있는 사고로부터 고객님의 피해를 보장하기 위해 자기신체사고, 대인, 대물 피해를 보상하는 자동차 종합 보험에 가입하고 있습니다.   \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e또한 차량의 피해에 대해 고객님의 부담을 덜어드리기 위해 차량손해면책제도를 운영하고 있습니다. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e차량 대여 계약 체결 시 자기부담금을 필수로 지정해야 하며, 고객님이 선택한 면책 상품에 따라 사고 발생 시 위블 비즈 차량 수리 비용에 대해 고객님이 부담해야 하는 최대 금액(자기부담금)이 정해집니다.   \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e차량 수리 비용이 자기부담금을 초과하더라도 선택한 면책 상품에서 정한 자기부담금만큼만 지불하시면 됩니다.   \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e차량손해면책제도의 보장 범위는 사고 발생 고객님이 대여한 차량의 수리 비용이며 휴차료, 긴급출동, 견인, 구난 등 현장 처리비용은 보장 범위에서 제외됩니다.  \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e면책 상품 및 면책 보험료는 차종, 대여 기간 등에 따라 상이할 수 있습니다. 대여 계약 체결 시 꼭 확인해주세요.  \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e*차량손해면책 상품에 가입되어 있더라도 음주, 무면허, 보험사 약관상 보상되지 않는 손해에 해당되는 사고 등 자동차대여약관 제20조 제2항 각호에 해당되는 경우 손해면책에서 제외되며 사고처리비용, 실 수리비 전액 배상과 손해배상 비용이 청구됩니다. 또한 법적 고발 및 이용 불가 조치가 행해지 수 있으니, 이 점을 유의해주시기 바랍니다.   \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e자세한 내용은 메뉴 \u0026gt;  하단의 \u0026#39;이용가이드\u0026#39; \u0026gt; 사고/보험 안내 - 위블 비즈 보험 안내를 확인해주세요.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 132,
+      "categoryName": "사고/보험",
+      "subCategoryName": "사고",
+      "question": "사고 발생 시, 차종별 휴차료는 어떻게 되나요? ",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-family:\u0026amp;quot; 맑은 고딕\u0026amp;quot; mso-ascii-theme-font:minor-fareast; mso-fareast-theme-font:minor-fareast; mso-hansi-theme-font:minor-fareast; font-size: small;\"\u003e회원의 과실로 인한 사고로 인해 자동차 수리를 위한 휴차를 하는 경우\u003c/span\u003e\u003cspan style=\"font-size: small;\"\u003e, \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: small;\"\u003e회원은 자동차손해 면책제도 가입 유무와 관계없이 회사에게 그 휴차 기간 동안 해당 차량의 휴차보상료 (휴차보상료=자동차수리일수 x 해당 자동차 1일 휴차보상료 x 회원 과실비율)를 배상하여야 합니다. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-family:\u0026amp;quot; 맑은 고딕\u0026amp;quot; mso-ascii-theme-font:minor-fareast; mso-fareast-theme-font:minor-fareast; mso-hansi-theme-font:minor-fareast; font-size: small;\"\u003e각 차종별 \u003c/span\u003e\u003cspan style=\"font-size: small;\"\u003e1일 휴차보상료는 아래와 같습니다. (단, 위탁차량의 경우 차량 소유사의 휴차보상료 기준에 따릅니다.)\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"mso-bidi-font-size:10.0pt; line-height:107%; mso-ascii-font-family:\u0026amp;quot; 맑은 고딕\u0026amp;quot; mso-ascii-theme-font:minor-fareast; mso-hansi-font-family:\u0026amp;quot; 맑은 고딕\u0026amp;quot; mso-hansi-theme-font:minor-fareast; font-size: small;\"\u003e▶ \u003c/span\u003e\u003cspan style=\"mso-bidi-font-size:10.0pt; line-height:107%; mso-ascii-font-family:\u0026amp;quot; 맑은 고딕\u0026amp;quot; mso-ascii-theme-font:minor-fareast; mso-hansi-font-family:\u0026amp;quot; 맑은 고딕\u0026amp;quot; mso-hansi-theme-font:\nminor-fareast; font-size: small;\"\u003e차종별 1일 휴차보상료 \u003c/span\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cp\u003e\u003cspan style=\"font-size: small;\"\u003e니로EV: 46,000원\u003c/span\u003e\u003c/p\u003e\u003c/li\u003e\u003cli\u003e\u003cp\u003e\u003cspan style=\"font-size: small;\"\u003eEV6, 아이오닉5: 56,000원\u003c/span\u003e\u003c/p\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 103,
+      "categoryName": "사고/보험",
+      "subCategoryName": "보험",
+      "question": "개인 보험이 있어도 위블 비즈 보험을 반드시 가입해야 하나요?",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e개인 차량 보험이 있더라도 위블 비즈 이용 시에는 위블 비즈 보험을 필수로 가입해야 합니다.  \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e자세한 내용은 위블 비즈 이용가이드 \u0026gt; 사고/보험 안내 - 위블 비즈 보험 안내를 확인해주세요.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 104,
+      "categoryName": "사고/보험",
+      "subCategoryName": "보험",
+      "question": "보험 범위에는 어떤 내용이 포함되어 있나요?",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e위블 비즈는 이용 중 발생할 수 있는 사고로부터 고객님의 피해를 보장하기 위해 자기신체사고, 대인, 대물 피해를 보상하는 자동차 종합 보험에 가입하고 있습니다. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e ▶ 자동차종합보험  - 자기신체사고(상해급수에 따라 실제 치료비 보상) : 사망 1억원 / 부상 1천5백만원  - 대인(상대방의 인명피해) : 무한\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e  - 대물(상대방의 물적 피해) : (비즈니스) 회원의 소속 회사와 계약한 보험 조건 / (개인) 회원이 예약한 차량의 보험가입 조건  또한 차량의 피해에 대해 고객님의 부담을 덜어드리기 위해 차량손해면책제도를 운영하고 있습니다. 차량 대여 계약 체결 시 자기부담금을 필수로 지정해야 하며, 고객님이 선택한 면책 상품에 따라 사고 발생 시 위블 비즈 차량 수리 비용에 대해 고객님이 부담해야 하는 최대 금액(자기부담금)이 정해집니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e ▶ 차량손해면책제도  - 보장범위 : 사고 발생 건당 회원이 대여한 차량의 수리비용\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e (제외 : 휴차료, 긴급출동, 견인, 구난 등 현장처리비용)  - 자기부담금 : 회원 개인이 대여 시 직접 선택한 면책 조건\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e 면책 상품 및 면책 보험료는 차종, 대여 기간 등에 따라 상이할 수 있습니다. 대여 계약 체결 시 꼭 확인해주세요.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e *차량손해면책 상품에 가입되어 있더라도 음주, 무면허, 보험사 약관상 보상되지 않는 손해에 해당되는 사고 등 자동차대여약관 제20조 제2항 각호에 해당되는 경우 손해면책에서 제외되며 사고처리비용, 실 수리비 전액 배상과 손해배상 비용이 청구됩니다. 또한 법적 고발 및 이용 불가 조치가 행해지 수 있으니, 이 점을 유의해주시기 바랍니다.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e 자세한 내용은 메뉴 \u0026gt; 하단의 \u0026#39;이용가이드\u0026#39; \u0026gt; 사고/보험 안내 - 위블 비즈 보험 안내를 확인해주세요.\u003c/span\u003e\u003c/p\u003e"
+    },
+    {
+      "id": 105,
+      "categoryName": "사고/보험",
+      "subCategoryName": "보험",
+      "question": "위블 비즈 차량 이용 시 보험을 꼭 가입해야 하나요?",
+      "answer": "\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e위블 비즈 이용 시에는 위블 비즈 보험 가입이 필수입니다. 원하는 보장 범위에 따라 구매(예약) 시 면책 상품을 선택할 수 있습니다.  \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: '13pt'; color: rgba(106, 122, 135, 1); word-break: keep-all;\"\u003e자세한 내용은 메뉴 \u0026gt; 하단의 \u0026#39;이용가이드\u0026#39; \u0026gt; 사고/보험 안내 - 위블 비즈 보험 안내를 확인해주세요.\u003c/span\u003e\u003c/p\u003e"
+    }
+  ]
+}
